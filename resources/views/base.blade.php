@@ -28,10 +28,9 @@
         </div>
         <div class="colapse navbar-collapse" id="nav_zg">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="/">Pregled</a></li>
+                <li><a href="/">Prodaja</a></li>
                 <li><a href="{{route('products')}}">Izdelki</a></li>
                 <li><a href="{{route('vendors')}}">Prodajalci</a></li>
-                <li><a href="{{ route('sales') }}">Prodaja</a></li>
             </ul>
         </div>
     </div>

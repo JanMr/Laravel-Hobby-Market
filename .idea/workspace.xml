@@ -5,22 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c5a1edb-64d4-46a7-8fe0-6726df03ccd7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/blade.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/base.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/add_customer.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/add_product.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/add_sale.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/add_vendor.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/index.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/product_details.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/products.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/sales.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/vendor_details.blade.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/views/pages/vendor_management.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/Http/routes.php" afterPath="$PROJECT_DIR$/app/Http/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/app.php" afterPath="$PROJECT_DIR$/config/app.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/resources/views/base.blade.php" afterPath="$PROJECT_DIR$/resources/views/base.blade.php" />
     </list>
     <ignored path="Trgovina.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -54,17 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="theme.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/public/css/theme.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="21" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="product_details.blade.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="product_details.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/pages/product_details.blade.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="264">
@@ -74,10 +50,20 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="base.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/base.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="303">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="VendorsController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/VendorsController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1403">
+            <state relative-caret-position="1320">
               <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
               <folding>
                 <element signature="e#40#81#0#PHP" expanded="true" />
@@ -89,7 +75,7 @@
       <file leaf-file-name="DashboardController.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DashboardController.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
+            <state relative-caret-position="242">
               <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
               <folding>
                 <element signature="e#40#55#0#PHP" expanded="true" />
@@ -111,7 +97,7 @@
       <file leaf-file-name="sales.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/pages/sales.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="333">
+            <state relative-caret-position="396">
               <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
               <folding />
             </state>
@@ -121,7 +107,7 @@
       <file leaf-file-name="vendor_management.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/pages/vendor_management.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="501">
+            <state relative-caret-position="1078">
               <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
               <folding />
             </state>
@@ -131,7 +117,7 @@
       <file leaf-file-name="routes.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="440">
               <caret line="29" column="77" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="79" />
               <folding />
             </state>
@@ -141,7 +127,7 @@
       <file leaf-file-name="vendor_details.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/views/pages/vendor_details.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
+            <state relative-caret-position="1122">
               <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
               <folding>
                 <marker date="1457951225553" expanded="true" signature="4376:4437" placeholder="{...}" />
@@ -179,7 +165,6 @@
         <option value="$PROJECT_DIR$/app/Supplier.php" />
         <option value="$PROJECT_DIR$/database/migrations/2016_03_12_134558_create_products_table.php" />
         <option value="$PROJECT_DIR$/database/migrations/2016_03_12_143334_create_products_sales_table.php" />
-        <option value="$PROJECT_DIR$/resources/views/base.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Requests/StoreProductRequest.php" />
         <option value="$PROJECT_DIR$/database/migrations/2016_03_12_144352_create_stock_table.php" />
         <option value="$PROJECT_DIR$/app/Inventory.php" />
@@ -205,6 +190,7 @@
         <option value="$PROJECT_DIR$/resources/views/pages/sales.blade.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/VendorsController.php" />
         <option value="$PROJECT_DIR$/app/Http/Controllers/DashboardController.php" />
+        <option value="$PROJECT_DIR$/resources/views/base.blade.php" />
       </list>
     </option>
   </component>
@@ -263,7 +249,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="Da&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/DashboardController.php&#10;cre&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_13_105821_create_sales_table.php&#10;Sa&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/SalesController.php&#10;vendor&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/vendor_management.blade.php&#10;route&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/routes.php&#10;rout&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/routes.php&#10;Vendors&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/VendorsController.php&#10;them&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/public/css/theme.css&#10;produc&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/products.blade.php&#10;ro&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/routes.php&#10;rou&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/routes.php&#10;Products&#9;null&#9;null&#10;theme&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/public/css/theme.css&#10;Sal&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Sale.php&#10;sale&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/SalesController.php&#10;Sale&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Sale.php&#10;Custo&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Customer.php&#10;Vendor&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Vendor.php&#10;Pr&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Product.php&#10;create&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_12_134558_create_products_table.php&#10;Sales&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/SalesController.php&#10;sales&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/sales.blade.php&#10;create_sales_table&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_12_143334_create_products_sales_table.php&#10;Das&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/DashboardController.php&#10;add&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/add_customer.blade.php&#10;ven&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/vendor_management.blade.php&#10;ve&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/add_vendor.blade.php&#10;in&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Inventory.php&#10;creat&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_12_144352_create_stock_table.php&#10;ProductsCont&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/ProductsController.php&#10;pro&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/products.blade.php&#10;In&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Inventory.php&#10;create_stoc&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_12_144352_create_stock_table.php&#10;create_inve&#9;null&#9;null&#10;Pro&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/ProductsController.php&#10;StorePro&#9;null&#9;null&#10;P&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/ProductsController.php&#10;Product&#9;null&#9;null&#10;Produ&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/ProductsController.php&#10;p&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/products.blade.php&#10;ba&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/base.blade.php&#10;basđ&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/base.blade.php&#10;vendo&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/vendor_management.blade.php&#10;sal&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/sales.blade.php&#10;base&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/base.blade.php&#10;Inve&#9;null&#9;null&#10;create_products_sa&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_12_143334_create_products_sales_table.php&#10;create_sea&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_12_141928_create_seales_table.php&#10;Supplier&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Supplier.php&#10;PackU&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/PackUnit.php" />
+    <property name="SearchEverywhereHistoryKey" value="ba&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/base.blade.php&#10;Da&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/DashboardController.php&#10;cre&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_13_105821_create_sales_table.php&#10;Sa&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/SalesController.php&#10;vendor&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/vendor_management.blade.php&#10;route&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/routes.php&#10;rout&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/routes.php&#10;Vendors&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/VendorsController.php&#10;them&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/public/css/theme.css&#10;produc&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/products.blade.php&#10;ro&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/routes.php&#10;rou&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/routes.php&#10;Products&#9;null&#9;null&#10;theme&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/public/css/theme.css&#10;Sal&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Sale.php&#10;sale&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/SalesController.php&#10;Sale&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Sale.php&#10;Custo&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Customer.php&#10;Vendor&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Vendor.php&#10;Pr&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Product.php&#10;create&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_12_134558_create_products_table.php&#10;Sales&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/SalesController.php&#10;sales&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/sales.blade.php&#10;create_sales_table&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_12_143334_create_products_sales_table.php&#10;Das&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/DashboardController.php&#10;add&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/add_customer.blade.php&#10;ven&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/vendor_management.blade.php&#10;ve&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/add_vendor.blade.php&#10;in&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Inventory.php&#10;creat&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_12_144352_create_stock_table.php&#10;ProductsCont&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/ProductsController.php&#10;pro&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/products.blade.php&#10;In&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Inventory.php&#10;create_stoc&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_12_144352_create_stock_table.php&#10;create_inve&#9;null&#9;null&#10;Pro&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/ProductsController.php&#10;StorePro&#9;null&#9;null&#10;P&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/ProductsController.php&#10;Product&#9;null&#9;null&#10;Produ&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Http/Controllers/ProductsController.php&#10;p&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/products.blade.php&#10;basđ&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/base.blade.php&#10;vendo&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/vendor_management.blade.php&#10;sal&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/pages/sales.blade.php&#10;base&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/resources/views/base.blade.php&#10;Inve&#9;null&#9;null&#10;create_products_sa&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_12_143334_create_products_sales_table.php&#10;create_sea&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/database/migrations/2016_03_12_141928_create_seales_table.php&#10;Supplier&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/Supplier.php&#10;PackU&#9;FILE&#9;file://E:/Learning/Php/Laravel/Trgovina/app/PackUnit.php" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -322,11 +308,12 @@
       <workItem from="1457844290667" duration="17730000" />
       <workItem from="1457867957920" duration="19139000" />
       <workItem from="1457935347227" duration="13768000" />
+      <workItem from="1457957888154" duration="147000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="50815000" />
+    <option name="totallyTimeSpent" value="50962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1696" height="1026" extended-state="6" />
@@ -408,7 +395,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -445,7 +431,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="21" column="47" selection-start-line="21" selection-start-column="47" selection-end-line="21" selection-end-column="47" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -541,13 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/base.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/intl.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
@@ -636,7 +614,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -644,7 +621,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="279">
           <caret line="10342" column="20" selection-start-line="10342" selection-start-column="20" selection-end-line="10342" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -652,7 +628,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
           <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -674,7 +649,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="506">
           <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -714,7 +688,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/pages/vendor_management.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="501">
+        <state relative-caret-position="1078">
           <caret line="49" column="51" selection-start-line="49" selection-start-column="51" selection-end-line="49" selection-end-column="51" />
           <folding />
         </state>
@@ -722,7 +696,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/pages/vendor_details.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="528">
+        <state relative-caret-position="1122">
           <caret line="51" column="18" selection-start-line="51" selection-start-column="18" selection-end-line="51" selection-end-column="18" />
           <folding>
             <marker date="1457951225553" expanded="true" signature="4376:4437" placeholder="{...}" />
@@ -734,7 +708,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
+        <state relative-caret-position="440">
           <caret line="29" column="77" selection-start-line="29" selection-start-column="74" selection-end-line="29" selection-end-column="79" />
           <folding />
         </state>
@@ -742,7 +716,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/views/pages/sales.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
+        <state relative-caret-position="396">
           <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
           <folding />
         </state>
@@ -750,7 +724,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/DashboardController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
+        <state relative-caret-position="242">
           <caret line="14" column="40" selection-start-line="14" selection-start-column="40" selection-end-line="14" selection-end-column="40" />
           <folding>
             <element signature="e#40#55#0#PHP" expanded="true" />
@@ -760,7 +734,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/Http/Controllers/VendorsController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1403">
+        <state relative-caret-position="1320">
           <caret line="66" column="9" selection-start-line="66" selection-start-column="9" selection-end-line="66" selection-end-column="9" />
           <folding>
             <element signature="e#40#81#0#PHP" expanded="true" />
@@ -772,6 +746,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
           <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/base.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="303">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
