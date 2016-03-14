@@ -1,3 +1,31 @@
+
+# Hobby market pregeld prodaje
+
+## O aplikaciji 
+
+Aplikacija je Laravel projekt ko jo poskušaš zaganjat znotraj svoje vitrulake je potrebno narediti composer install. 
+Ko narediš migracije so tabele prazne. 
+
+moji testni podatki iz tabel so v mapi podatki. 
+
+**opozorilo** Alikacija je še vedno v razvoju!
+## Struktura
+1. za zavihek prodaja skrbi SallesController (app/http/Controllers/SalesController)
+2 za zavihek prodajalci in podrobnosti prodajalcev skrbi Vendor controler (app/http/Controllers/VendorController)
+3. za zavihek izdelki in njihove podrobnosti skrbi ProductsController (app/http/Controllers/ProductsController)
+4. Znotraj mape app so še modeli, ki skrbijo za povezave z bazo podatkov 
+
+## Funkcionalnosti 
+1. Vnos podatkov o kupcih in prodajalcih
+2. vnos prodaje 
+3. pregled prodaje po prodajalcih klikni na ime prodajalca
+4. pregled posameznih prodaj 
+
+Upam, da je dovolj razumljivo  Razvoj bom še naldaljevval ... 
+
+Lep pozdrav Janko Pirih 
+
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
