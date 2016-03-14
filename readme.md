@@ -5,6 +5,8 @@
 
 Aplikacija je Laravel projekt ko jo poskušaš zaganjat znotraj svoje vitrulake je potrebno narediti composer install. 
 Ko narediš migracije so tabele prazne. 
+preden poganjaš je potrebno datoteko .env-example kopirati in prilepiti z imenom .env znotraj določi ime baze database name 
+preden bo delovalo je treba tudi pognati ukaz  php artisan key:generate da generira secret_key.
 
 moji testni podatki iz tabel so v mapi podatki. 
 
